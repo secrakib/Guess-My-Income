@@ -21,3 +21,7 @@ LGBM Mdoel Achieved a f1 Score of **65.154 % **
 
 # Workflow Diagram
 
+![Diagram_page-0001](https://github.com/user-attachments/assets/decb66ff-6a88-4714-accc-e33f13486151)
+
+
+[Diagram.pdf](https://github.com/user-attachments/files/16195952/Diagram.pdf)
