@@ -15,7 +15,11 @@ We need to predict income Based on a Dataset which is **Highly Imbalanced**
 
 ## Solution Approach
 We Applied *SMOTE Upsampling And Near Miss DownSampling* to address the issue
+### Balanced Data After Preproceesing
 
+![download (3)](https://github.com/user-attachments/assets/00756311-8947-422d-b25a-5d46296bc027)
+
+----------------------
 ## Best Model 
 LGBM Mdoel Achieved a f1 Score of **65.154 % **
 
