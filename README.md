@@ -61,3 +61,6 @@ pip install seaborn
 ```
 pip install imblearn
 ```
+
+# License  
+<table><tr><td>Apache License 2.0</td></tr></table>
