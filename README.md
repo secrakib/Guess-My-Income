@@ -27,3 +27,33 @@ LGBM Mdoel Achieved a f1 Score of **65.154 % **
 
 
 [Diagram.pdf](https://github.com/user-attachments/files/16195952/Diagram.pdf)
+
+# Install Libraries
+### Pandas
+```
+pip install pandas
+```
+### Numpy
+```
+pip install numpy
+```
+### Pickle
+```
+pip install pickle5
+```
+### Scikit-learn
+```
+pip install scikit-learn
+```
+### matplotlib
+```
+pip install matplotlib
+```
+### Seaborn
+```
+pip install seaborn
+```
+### Imblearn
+```
+pip install imblearn
+```
