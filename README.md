@@ -11,6 +11,8 @@
 ## Problem
 We need to predict income Based on a Dataset which is **Highly Imbalanced**
 
+![download (2)](https://github.com/user-attachments/assets/10bafecf-fbc5-4c68-b120-5c1c8853b150)
+
 ## Solution Approach
 We Applied *SMOTE Upsampling And Near Miss DownSampling* to address the issue
 
