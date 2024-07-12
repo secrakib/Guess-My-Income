@@ -18,3 +18,6 @@ We Applied *SMOTE Upsampling And Near Miss DownSampling* to address the issue
 LGBM Mdoel Achieved a f1 Score of **65.154 % **
 
 ![Screenshot (76)](https://github.com/user-attachments/assets/4f9e90b7-3d12-4d63-9759-d2d400c6875d)
+
+# Workflow Diagram
+
