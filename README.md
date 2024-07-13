@@ -61,6 +61,10 @@ pip install seaborn
 ```
 pip install imblearn
 ```
+# Clone Repo
+```
+https://github.com/secrakib/Guess-My-Income.git
+```
 
 # License  
 <table><tr><td>Apache License 2.0</td></tr></table>
